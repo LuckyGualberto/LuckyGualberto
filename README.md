@@ -36,6 +36,16 @@ Atualmente focado no ecossistema **.NET**, com o objetivo de me tornar um desenv
 
 ---
 
+## 🐍 A cobrinha dos commits
+
+<div align="center">
+
+![Snake animation](https://github.com/LuckyGualberto/LuckyGualberto/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
 ## 💬 Onde me encontrar
 
 📫 [LinkedIn — Lucas Gualberto](https://www.linkedin.com/in/lucas-gualbert0/)  
@@ -43,5 +53,4 @@ Atualmente focado no ecossistema **.NET**, com o objetivo de me tornar um desenv
 
 ---
 
-✨ *“A melhor forma de prever o futuro é criá-lo.”* — Alan Kay
-
+✨ *“A melh*
